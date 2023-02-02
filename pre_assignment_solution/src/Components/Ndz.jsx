@@ -1,1 +1,0 @@
-/*List of the poilots who have recently voilated the NDZ perimeter*/
